@@ -709,7 +709,7 @@ int main(int argc,char*argv[])
 int c_menu;
     printf("\n");
     printf(" |===========================================================|\n");
-    printf(" |===>Well Come to 'Azzonika Turorials' Youtube channel  <===|\n");
+   
     printf(" #----Graphics Project:-'Simulation of Traffic Control'------#\n");
     printf(" |-----------------------------------------------------------|\n");
     printf(" |                                                           |\n");
@@ -724,7 +724,7 @@ int c_menu;
 	printf(" |       |> Select  'Quite' to Exit the application          |\n");
 	printf(" |                                                           |\n");
 	printf(" |-----------------------------------------------------------|\n");
-    printf(" |======SUBSCRIBE: Azzonika Tutorials (Youtube Channel)======|\n");
+    printf(" |============|\n");
     printf(" |===========================================================|\n");
      glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_SINGLE|GLUT_RGB);
